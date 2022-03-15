@@ -67,3 +67,9 @@ if [ -x dummy ]
   else echo "g++ compilation failed"; fi
 rm -f dummy.c dummy
 ```
+
+3. Run the version-check.sh file
+
+```bash
+bash version-check.sh
+```
