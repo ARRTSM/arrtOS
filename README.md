@@ -79,3 +79,9 @@ bash version-check.sh
 ```bash
 sudo ln -sf bash /bin/sh
 ```
+
+4. If any of the required package shows an error as command not found then install the respective packages.
+
+```bash
+sudo apt install <package-name>
+```
