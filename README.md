@@ -77,5 +77,5 @@ bash version-check.sh
 **Note :** If /bin/sh does not point to bash throws an error, then run this
 
 ```bash
-sudo ln -sf bash /bin/sh                                                             ──(Tue,Mar15)─┘
+sudo ln -sf bash /bin/sh
 ```
